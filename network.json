@@ -1,8 +1,15 @@
 [
   {
-    "title": "Gnosis Chain",
-    "url": "https://gnosis.blockscout.com/",
+    "title": "Cryft Scan",
+    "url": "https://node1.cryftscan.com",
     "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/gnosis_chiado.svg",
+    "isActive": true
+  },
+  {
+    "title": "Cryft Scan",
+    "url": "https://testnet.cryftscan.com",
+    "group": "Testnet",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/gnosis_chiado.svg",
     "isActive": true
   }
