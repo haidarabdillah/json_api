@@ -9,7 +9,7 @@
   {
     "title": "Cryft Scan",
     "url": "https://testnet.cryftscan.com",
-    "group": "Testnet",
+    "group": "Testnets",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/gnosis_chiado.svg",
     "isActive": true
   }
