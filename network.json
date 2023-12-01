@@ -3,7 +3,7 @@
     "title": "Cryft Scan",
     "url": "https://node1.cryftscan.com",
     "group": "Mainnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/gnosis_chiado.svg",
+    "icon": "https://raw.githubusercontent.com/haidarabdillah/json_api/main/cryftscan.svg",
     "isActive": true
   },
   {
